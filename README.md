@@ -20,9 +20,16 @@ Another lambda function is used to detect intents using Comprehend which perform
 User types a message - bot detects the intent type and invokes appropriate API 
 Deploy the Lexot WeUI 
 
-
-
-
 Confirm this project can be completed on Free Tier account 
+
+Services used           : Availability on free tier 
+
+cognito                 : 
+lambda                  :
+lex                     :
+comprehend              :
+textract                :
+s3                      :
+
 
 
